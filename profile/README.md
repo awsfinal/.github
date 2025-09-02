@@ -195,17 +195,5 @@ kubectl apply -f k8s/weather-deployment.yaml
 
 ---
 
-## 📞 지원  
-
-- **프로젝트 관리자**: [이메일]  
-- **기술 지원**: [이메일]  
-- **버그 리포트**: GitHub Issues  
-
----
-
-## 📄 라이선스  
-이 프로젝트는 **MIT License** 하에 배포됩니다.  
-
----
 
 ✨ **JJIKGEO - 문화유산과 기술의 만남** ✨  
